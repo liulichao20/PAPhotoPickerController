@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PAPhotoPickerController_Example' do
+  pod 'PAPhotoPickerController', :path => '../'
+
+  target 'PAPhotoPickerController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

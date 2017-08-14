@@ -1,0 +1,6 @@
+framework module PAPhotoPickerController {
+  umbrella header "PAPhotoPickerController-umbrella.h"
+
+  export *
+  module * { export * }
+}

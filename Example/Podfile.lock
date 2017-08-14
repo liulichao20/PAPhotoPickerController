@@ -1,0 +1,16 @@
+PODS:
+  - PAPhotoPickerController (0.1.0)
+
+DEPENDENCIES:
+  - PAPhotoPickerController (from `../`)
+
+EXTERNAL SOURCES:
+  PAPhotoPickerController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PAPhotoPickerController: d357d0ed150a9b3dd2749068a1bea0029dc9df21
+
+PODFILE CHECKSUM: bb258dd1139e5f47afc2fc03846b58aa71c08e31
+
+COCOAPODS: 1.2.1
